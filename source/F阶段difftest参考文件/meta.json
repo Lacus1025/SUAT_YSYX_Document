@@ -1,0 +1,8 @@
+{
+    "title": "F阶段difftest参考文件",
+    "author": "SUAT-YSYX",
+    "time": "2026.7.7",
+    "description": "用于sum.hex与mem.hex程序的difftest debug",
+    "tag": ["F阶段", "difftest"],
+    "version": "1.0.0"
+  }
